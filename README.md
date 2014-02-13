@@ -1,4 +1,4 @@
-Gmail Bouncer - Collect Bounced email-ids froma Gmail Account
+Gmail Bouncer - Collect Bounced email-ids from a Gmail Account
 -------
 Gmail Bouncer helps to check for bounced email address from a Gmail Inbox.
 
